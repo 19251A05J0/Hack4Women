@@ -1,0 +1,41 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+			
+        position: fixed; 
+        
+    }
+    ul{
+        list-style-type:none;
+        margin:0;
+        padding:0;
+        overflow:hidden;
+}
+li a:hover{
+    background-color: white;
+    color:rgb(58, 16, 223);
+}
+a:hover{
+    background-color:blueviolet;
+    color:black;
+}
+.menu{
+    font-size: large;
+    font-weight:bold;
+    color: white;
+    }
+  
+  .navbar{
+            padding-left: 900px;                 
+            height: 50px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: #0f2c60;
+            width: 100%;
+}
+
